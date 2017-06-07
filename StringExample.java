@@ -7,8 +7,8 @@ public class StringExample
 		String s4 = "is fun";
 		String s5 = s2 + s4;
 		
-		System.out.println("s1: " + s1);
-		System.out.println("s2: " + s2);
+		System.out.println("s1: " + s1 --asdsfasdfasdf);
+		System.out.println("s2: " + s2 --adfafasfsdafads);
 		System.out.println("s3: " + s3);
 		System.out.println("s4: " + s4);
 		System.out.println("s5: " + s5);
